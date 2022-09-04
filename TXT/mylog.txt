@@ -7,4 +7,4 @@ ZCZC W00 200 L02 ZOOM related
 ZCZC W00  30 L03 GitHub related
 ZCZC W00   5 L04 GitHub Pages related
 ZCZC 200   3 L05 Quiz
-ZCZC W00 150 L09 Weekly Assignments
+ZCZC W00 175 L09 Weekly Assignments

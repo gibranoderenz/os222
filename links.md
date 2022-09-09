@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
-<br>
+<br><br>
 [HOME]({{ site.baseurl }}/) ---
 [GITHUB]({{ site.githublink }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---

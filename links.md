@@ -30,6 +30,9 @@ Learn X in Y minutes is a highly recommended source for me, as it gives the read
 4. [Bash Guide for Beginners - The Linux Documentation Project](https://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf)<br>
 From what I can understand, the PDF file gives a thorough explanation on Bash. This is recommended for those who really want to dig in to the world of Bash and enhance their understanding on Bash in general, as the structure of the documentation is ordered neatly.
 
+5. [Linuxize](https://linuxize.com/post/bash-if-else-statement/)<br>
+The link points to a Bash if-else statement tutorial, but I really enjoyed learning some bits of Bash from this site in general. In my opinion, the color scheme of the site makes it easy and comfortable to read and understand the content, and also the site provides a lot of examples to understand the Bash syntax more.
+
 <br>
 <hr>
 &copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}

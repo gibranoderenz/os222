@@ -33,6 +33,9 @@ From what I can understand, the PDF file gives a thorough explanation on Bash. T
 5. [Linuxize](https://linuxize.com/post/bash-if-else-statement/)<br>
 The link points to a Bash if-else statement tutorial, but I really enjoyed learning some bits of Bash from this site in general. In my opinion, the color scheme of the site makes it easy and comfortable to read and understand the content, and also the site provides a lot of examples to understand the Bash syntax more.
 
+6. [Learn Regex The Easy Way](https://github.com/ziishaned/learn-regex)<br>
+Learning Regex requires effort and hands-on experience. For me, this topic is interesting yet tricky, because the syntax is not so intuitive. However, this repository aims to make the learning process easier (hence the title :D). I still need to read more from this source, however. Saving this for later!
+
 <br>
 <hr>
 &copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}

@@ -23,11 +23,11 @@ The speaker explains in a very understandable and beginner-friendly way. Althoug
 The speaker gives a lot of examples so that the viewer may understand the concept and usage of the awk command. The content is straightforward and suitable for beginners.
 
 
-3. [Learn Bash in Y minutes] (https://learnxinyminutes.com/docs/bash/)<br>
+3. [Learn Bash in Y minutes](https://learnxinyminutes.com/docs/bash/)<br>
 Learn X in Y minutes is a highly recommended source for me, as it gives the reader a good overview of the material they want to learn, in this case Bash. The style of teaching is through giving direct code examples and comments to explain what the code does. It's really good and you can also learn other things for Learn X in Y minutes. Check it out!
 
 
-4. [Bash Guide for Beginners - The Linux Documentation Project] (https://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf)<br>
+4. [Bash Guide for Beginners - The Linux Documentation Project](https://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf)<br>
 From what I can understand, the PDF file gives a thorough explanation on Bash. This is recommended for those who really want to dig in to the world of Bash and enhance their understanding on Bash in general, as the structure of the documentation is ordered neatly.
 
 <br>

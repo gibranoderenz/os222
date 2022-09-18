@@ -37,7 +37,21 @@ The link points to a Bash if-else statement tutorial, but I really enjoyed learn
 Learning Regex requires effort and hands-on experience. For me, this topic is interesting yet tricky, because the syntax is not so intuitive. However, this repository aims to make the learning process easier (hence the title :D). I still need to read more from this source, however. Saving this for later!
 
 <br>
+
+<h3>Week 02</h3>
+1. [Learn C in y minutes](https://learnxinyminutes.com/docs/c/)<br>
+Similar to last week's *Learn Bash in y minutes*, this site is a great help to get started to C programming. It explains C concepts concisely and effectively.
+
+2. [Encryption - Symmetric Encryption vs Asymmetric Encryption - Cryptography - Practical TLS](https://www.youtube.com/watch?v=o_g-M7UBqI8)<br>
+This video gives a really good overview on the topic of encryption, specifically symmetric and assymmetric encryption. The speaker uses words that are easy to understand and animations that really support the explanation, making the video really digestable for beginners.
+
+3. [Public and Private Keys - Signatures & Key Exchanges - Cryptography - Practical TLS](https://www.youtube.com/watch?v=_zyKvPvh808)<br>
+This video is also made by the same channel from the second link of this week. Similar in nature to that video, the speaker is able to explain seemingly daunting concepts in a surprisingly fun and enjoyable way, making me really appreciate and just "wow" in the process of using public and private keys to ensure encryption and signatures, as well as the concept of using hybrid encryption to send bulk data, benefiting from the "best of both worlds", as the speaker teaches.
+
+4. [What's the Difference: Computer Virus vs Malware, vs Spyware, etc?](https://www.youtube.com/watch?v=HvMQKffEAbk)<br>
+The speaker gives a really good overview on types of malware, explaining the different types of malware in an understandable and enjoyable way. 
+
 <hr>
-&copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}
 <hr>
 <br>

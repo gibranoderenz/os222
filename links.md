@@ -49,7 +49,25 @@ This video gives a really good overview on the topic of encryption, specifically
 This video is also made by the same channel from the second link of this week. Similar in nature to that video, the speaker is able to explain seemingly daunting concepts in a surprisingly fun and enjoyable way, making me really appreciate and just "wow" in the process of using public and private keys to ensure encryption and signatures, as well as the concept of using hybrid encryption to send bulk data, benefiting from the "best of both worlds", as the speaker teaches.
 
 4. [What's the Difference: Computer Virus vs Malware, vs Spyware, etc?](https://www.youtube.com/watch?v=HvMQKffEAbk)<br>
-The speaker gives a really good overview on types of malware, explaining the different types of malware in an understandable and enjoyable way. 
+The speaker gives a really good overview on types of malware, explaining the different types of malware in an understandable and enjoyable way.
+
+<br>
+ 
+<h3>Week 03</h3>
+1. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+This is a very solid video introducing the directories of Linux. The speaker teaches in a concise and enjoyable way, making the content suitable for Linux beginners.
+
+2. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
+Similar to the first link of this week, the speaker teaches on the topic of Linux file system. The difference is that the explanation is more thorough than the first link, benefiting the audience to enhance their knowledge on Linux file system.
+
+3. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+The makers of this series is really able to make learning low-level computer science concepts a fun and enjoyable (yes, I am using that word too often now :)) way. This video is no exception. With amazing visuals, the speaker shows how computers store file in the hardware level with the usage of the concept of blocks and fragmentations. This stuff is pretty cool.
+
+4. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws)<br>
+The speaker teaches on the differences of different file system formats used in for storing files. Great video to understand more about the file system world.
+
+5. [Unix / Linux - File Permission / Access Modes](https://www.tutorialspoint.com/unix/unix-file-permission.htm)<br>
+This source is not about file system as the other links in this week, but it still touches the matter of files, in this case file permissions. It's a great source to know the types of permissions available in Linux, how these permissions can differ according to the role of the logged in user, and how we can manually set permissions for file and directory access. Linux is pretty cool.
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}

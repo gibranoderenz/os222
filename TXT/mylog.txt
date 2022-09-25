@@ -18,7 +18,7 @@ ZCZC W02  60 L09 Weekly Assignments
 ZCZC W03   5 L01 SCELE/Discord related
 ZCZC W03 100 L02 ZOOM related
 ZCZC W03  23 L05 Quiz related including studying
-ZCZC W03  60 L09 Weekly Assignments
+ZCZC W03 100 L09 Weekly Assignments
 ZCZC W03  30 L23 Bash, Regex, SED, AWK.
 ZCZC W03 100 L99 Face-to-face lecture.
 

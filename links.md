@@ -69,6 +69,19 @@ The speaker teaches on the differences of different file system formats used in 
 5. [Unix / Linux - File Permission / Access Modes](https://www.tutorialspoint.com/unix/unix-file-permission.htm)<br>
 This source is not about file system as the other links in this week, but it still touches the matter of files, in this case file permissions. It's a great source to know the types of permissions available in Linux, how these permissions can differ according to the role of the logged in user, and how we can manually set permissions for file and directory access. Linux is pretty cool.
 
+<br>
+
+<h3>Week 04</h3>
+1. [Logical vs Physical Address](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/07%3A_Memory/7.5%3A_Logical_vs_Physical_Address)<br>
+This source gives a good overview on the differences of logical and physical addresses, using a simple figure and a comparison chart to explain the concepts in a friendly way.
+
+2. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
+This article helps me understand more about the concept of paging, used by operating systems to avoid external fragmentation, a problem that may occur in managing data. This source uses an example and figures to explain the topic.
+
+3. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
+The speaker presents the topic in a simple yet effective way, explaining the topic of segmented, paged, and virtual memory, contrasting how data is stored in segmented and paged memory management systems.
+
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}
 <hr>

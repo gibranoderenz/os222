@@ -81,6 +81,18 @@ This article helps me understand more about the concept of paging, used by opera
 3. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
 The speaker presents the topic in a simple yet effective way, explaining the topic of segmented, paged, and virtual memory, contrasting how data is stored in segmented and paged memory management systems.
 
+<br>
+
+<h3>Week 05</h3>
+
+1. [Your Computer is Lying To You (Virtual Memory)](https://www.youtube.com/watch?v=Aw0YAUdQp1c)<br>
+This video presents the concept of virtual and physical addresses in a pretty concrete way, using a C program to demonstrate how computers deal with memory management under the hood.
+
+2. [Demand Paging and Page Replacement Algorithms](https://lass.cs.umass.edu/~shenoy/courses/fall13/lectures/Lec14_notes.pdf)<br>
+The source gives an in-depth explanation on demand paging and page replacement algorithms, stressing how demand paging benefits or disadvantages computer memory management, and also explaining different methods a computer may replace pages in memory.
+
+3. [Memory: Paging](https://www.cs.cornell.edu/courses/cs4410/2016su/slides/lecture11.pdf)<br>
+The slide helped me in translating logical addresses to physical addresses given the contents of the logical and physical address space and the page table that maps the page to its corresponding frame.
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}

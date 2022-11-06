@@ -94,6 +94,21 @@ The source gives an in-depth explanation on demand paging and page replacement a
 3. [Memory: Paging](https://www.cs.cornell.edu/courses/cs4410/2016su/slides/lecture11.pdf)<br>
 The slide helped me in translating logical addresses to physical addresses given the contents of the logical and physical address space and the page table that maps the page to its corresponding frame.
 
+<br>
+
+<h3>Week 06</h3>
+1. [Process vs Thread – Difference Between Them](https://www.guru99.com/difference-between-process-and-thread.html)<br>
+This source helped me in differentiating between processes and threads, and also how threads solve problems created while using processes. The end of the story is threads are the way to go.
+
+2. [Concurrency vs. Parallelism — A brief view](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)<br>
+This article gives a good overview on the differences between concurrency and parallelism, using easy-to-understand analogies to simplify the topic.
+
+3. [fork() — Create a new process](https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-fork-create-new-process)<br>
+This documentation effectively explains what the fork() command does, providing code examples and explanations to effectively explain the topic.
+
+4. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This source also explains the concept of forking, providing good code examples and diagrams to guide learners in learning the topic.
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}
 <hr>

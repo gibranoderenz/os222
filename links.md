@@ -109,6 +109,32 @@ This documentation effectively explains what the fork() command does, providing 
 4. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
 This source also explains the concept of forking, providing good code examples and diagrams to guide learners in learning the topic.
 
+<br>
+
+<h3>Week 07</h3>
+This week, I learnt about synchronization and deadlocks. Pretty interesting stuff.
+
+1. [Semaphore in OS](https://www.scaler.com/topics/operating-system/semaphore-in-os/)<br>
+This source explains the topic of semaphores with a friendly presentation, effectively helping learners and enthusiasts to understand the concepts.
+
+2. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
+This source has similar contents to the slides that explains this concept. The article is great as an introduction to synchronization, as for me this topic is pretty technical.
+
+3. [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/)<br>
+This source explains the differences between mutex and semaphores, clearing some misconceptions along the way.
+
+4. [Producer Consumer Problem using Semaphores](https://www.geeksforgeeks.org/producer-consumer-problem-using-semaphores-set-1/)<br>
+The producer-consumer problem is a classic problem of synchronization. Understanding the problem and the solution will help learners in grasping the benefit of using semaphores.
+
+5. [Readers-Writers Problem](https://www.geeksforgeeks.org/readers-writers-problem-set-1-introduction-and-readers-preference-solution/)<br>
+This is another classic synchronization problem. Similar to the previous link, this source is good to strengthen one's knowledge on synchronization.
+
+6. [Deadlocks](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html)<br>
+This source is similar to the contents of the slides. This is a neat note page to enhance one's understanding on deadlocks, a synchronization problem that can be solved in several ways.
+
+7. [Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)<br>
+This article can be helpful to grasp the deadlock concept more.
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}
 <hr>

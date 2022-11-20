@@ -37,3 +37,6 @@ ZCZC W07   5 L01 SCELE/Discord related
 ZCZC W07   3 L05 Quiz related
 ZCZC W07  30 L09 Weekly Assignments
 ZCZC W07 200 L99 Face-to-face lecture.
+ZCZC W08   5 L01 SCELE/Discord related
+ZCZC W08 500 L09 Weekly Assignments
+ZCZC W08 200 L99 Face-to-face lecture.

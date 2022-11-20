@@ -135,6 +135,30 @@ This source is similar to the contents of the slides. This is a neat note page t
 7. [Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)<br>
 This article can be helpful to grasp the deadlock concept more.
 
+<br>
+
+<h3>Week 08</h3>
+Phew, scheduling is pretty tough. All that for the best perfomance. I'd say it's worth it, though.
+
+1. [Scheduling](https://applied-programming.github.io/Operating-Systems-Notes/4-Scheduling/)<br>
+This source gives a good overview on scheduling. It's basically like a cheatsheet for the concepts, not too detail but just enough to explain the different types of CPU schedling.
+
+2. [CPU Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_CPU_Scheduling.html)<br>
+This source refers to the Silberschatz slides, so this is helpful to follow along the materials in class. The website is simple but, in my opinion, effective to navigate through.
+
+3. [FCFS(First Come First Serve) CPU Scheduling Algorithm with example | Operating System](https://www.youtube.com/watch?v=WYo1SpUh9FI)<br>
+FCFS is one way CPUs handle scheduling. The video simply explains the concept and is a great help in understanding the concept better.
+
+4. [L-2.4: Shortest Job First(SJF) Scheduling Algorithm with Example | Operating System](https://www.youtube.com/watch?v=VCIVXPoiLpU)<br>
+SJF is also another way of CPU scheduling. Similar in nature to the 3rd link, the instructor is able to explain the concept in a digestable way.
+
+5. [Round Robin Scheduling](https://www.youtube.com/watch?v=Ej-gsTkCrHU)<br>
+Another CPU scheduling method: RR. The video is short but suffice in the depth of the material.
+
+6. [Multilevel Queue Scheduling Algorithm](https://www.youtube.com/watch?v=fvkSXMZaBNY)<br>
+Watching this video makes me appreciate the brilliant minds behind this technology. I would also argue that the theories of these concepts are abstractions to the complexity of how CPUs do scheduling behind the scenes, in the low level parts. This stuff is pretty cool.
+
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}
 <hr>

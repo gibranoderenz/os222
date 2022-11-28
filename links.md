@@ -158,6 +158,24 @@ Another CPU scheduling method: RR. The video is short but suffice in the depth o
 6. [Multilevel Queue Scheduling Algorithm](https://www.youtube.com/watch?v=fvkSXMZaBNY)<br>
 Watching this video makes me appreciate the brilliant minds behind this technology. I would also argue that the theories of these concepts are abstractions to the complexity of how CPUs do scheduling behind the scenes, in the low level parts. This stuff is pretty cool.
 
+<h3>Week 09</h3>
+1. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+This source is useful as a complementary material to the slides, as the contents are similar to the slides.
+
+2. [Overview of 'Wear Leveling' With SSD Controllers](https://www.ontrack.com/en-us/blog/wear-leveling#:~:text=Wear%20leveling%20%2D%20what%20is%20it,often%20on%20the%20same%20blocks.)<br>
+This article is useful to understand the concept of wear leveling, a problem SSDs have.
+
+3. [Difference between Seek Time and Rotational Latency in Disk Scheduling](https://www.geeksforgeeks.org/difference-between-seek-time-and-rotational-latency-in-disk-scheduling/)<br>
+Due to the similarities of seek time and rotational latency (in my opinion), this article helps in differentiating between them.
+
+4. [Disk Scheduling Algorithms](https://www.101computing.net/disk-scheduling-algorithms/)<br>
+The source provides thorough explanations on disk scheduling algorithms, providing examples to help learners better understand the concepts.
+
+5. [SCAN Vs C-SCAN DISK SCHEDULING](https://www.codingninjas.com/codestudio/library/scan-vs-c-scan-disk-scheduling)<br>
+This source provides the differences between SCAN and C-SCAN scheduling algorithms, also helpful to better understand the concepts.
+
+6. [How Do SSDs Work?](https://www.extremetech.com/extreme/210492-extremetech-explains-how-do-ssds-work)<br>
+This article is a very comprehensive guide to SSDs.
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}
